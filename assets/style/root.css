@@ -1,0 +1,28 @@
+div{
+    border: solid;
+}
+
+span{
+    border: solid;
+}
+
+.header{
+    border: solid;
+    padding: 20px;
+    
+    
+}
+
+.main{
+    margin-top: 10px;
+    border: solid;
+    padding: 20px;
+
+}
+
+#adnael{
+    margin-top: 10px;
+    border: solid;
+    padding: 20px;
+}
+
