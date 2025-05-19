@@ -1,0 +1,28 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    font: inherit;
+    /*Desconsidera todas as font */
+
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+:root {
+    /* Cores */
+    --bg-color: #FFFFFF;
+    /* Body*/
+    --stroke-color: #000000;
+    --text-color-primary: rgb(110, 110, 110);
+            /*Font*/
+    }
+
+html{
+    background: var(--bg-color);
+}
